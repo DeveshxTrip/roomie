@@ -1,0 +1,41 @@
+.container1{
+    padding-top: 150px;
+}
+
+.container1 h1{
+    text-align: center;
+
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    align-items: center;
+    margin: 0px 570px;
+    
+}
+
+.inp{
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+
+.user-img{
+    width: 30px;
+    height: 30px;
+    margin-top: 23px;
+}
+
+.inp-name{
+    display: flex;
+    flex-direction:row;
+}
+
+.btn{
+    align-items: center;
+    padding-top: 15px;
+}
